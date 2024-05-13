@@ -1,0 +1,8 @@
+moveForward();
+placeBlockAhead("cobblestone");
+for (var count = 0; count < 2; count++) {
+    moveForward();
+}
+destroyBlock();
+moveForward();
+destroyBlock();

@@ -1,0 +1,12 @@
+for (var count = 0; count < 6; count++) {
+    plantCrop();
+  moveForward();
+}
+turnRight();
+moveForward();
+moveForward();
+turnRight();
+for (var count2 = 0; count2 < 7; count2++) {
+    plantCrop();
+  moveForward();
+}

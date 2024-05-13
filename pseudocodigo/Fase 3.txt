@@ -1,0 +1,12 @@
+moveForward();
+turnRight();
+moveForward();
+moveForward();
+turnLeft();
+shear();
+turnLeft();
+moveForward();
+moveForward();
+turnRight();
+moveForward();
+shear();
